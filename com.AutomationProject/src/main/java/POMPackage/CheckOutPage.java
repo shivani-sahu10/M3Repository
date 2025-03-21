@@ -12,9 +12,10 @@ import org.testng.asserts.SoftAssert;
 
 import genericLibrary.BaseTest;
 import genericLibrary.Flib;
+import genericLibrary.IAutoConstant;
 import genericLibrary.SelectUtility;
 
-public class CheckOutPage extends BaseTest {
+public class CheckOutPage extends BaseTest implements IAutoConstant {
   
  
 	  
